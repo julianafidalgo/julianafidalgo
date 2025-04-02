@@ -1,4 +1,6 @@
-![Foto](https://tenor.com/pt-BR/view/typing-busy-work-office-homework-gif-11795563)
+<p align="center">
+  <img src="https://media1.tenor.com/m/QQJcxSPSOh8AAAAd/typing-busy.gif" />
+</p>
 
 
 Currently...
