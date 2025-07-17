@@ -5,7 +5,7 @@
 
 Currently...
  - 💼 Working as a fullstack developer at Prefeitura Municipal de Santos. 
- - 📝 Interested in learning more about **C#**, **SQL**, **VUE** and **TAILWIND**;
+ - 📝 Interested in learning more about **VUE.JS**, **REACT NATIVE**, **TAILWIND** and **MYSQL**;
 
 ###### STACK:
 [![Stack](https://skillicons.dev/icons?i=vue,php,mint,tailwind,laravel,cs,dotnet,html,css,js,mysql,windows,visualstudio,git,github,figma&theme=light)]()
